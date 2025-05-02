@@ -72,8 +72,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact Information
 For questions, suggestions, or feedback, please contact:
 
-Email: your.email@example.com
-GitHub: Your GitHub Profile
+Email: dipu69394@gmail.coim
+GitHub: demon845
 Reporting Issues
 If you encounter any bugs or have feature requests, please:
 
